@@ -1,2 +1,7 @@
 # Xenesys
-Xenesys project
+
+## Notification update
+
+This is a new change in our system.
+
+Every member should focus on this update.
